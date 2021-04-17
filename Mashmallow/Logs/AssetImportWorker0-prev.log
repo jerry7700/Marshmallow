@@ -1,0 +1,246 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.1f1 (270dd8c3da1c) revision 2559448'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'zh' Physical Memory: 16325 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Shelly/Marshmallow/Mashmallow
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50783
+Successfully changed project path to: C:/Shelly/Marshmallow/Mashmallow
+C:/Shelly/Marshmallow/Mashmallow
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 34.99 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Shelly/Marshmallow/Mashmallow/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro K620 (ID=0x13bb)
+    Vendor:   
+    VRAM:     2007 MB
+    Driver:   26.21.14.3086
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56532
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001808 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 38.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.635 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000815 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 37.95 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.817 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1776 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 83.3 MB.
+System memory in use after: 83.4 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2221.
+Total: 1.997600 ms (FindLiveObjects: 0.207600 ms CreateObjectMapping: 0.091100 ms MarkObjects: 1.537600 ms  DeleteObjects: 0.160200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/玩家/高遊實驗檔-09.png
+  artifactKey: Guid(898c8de2aed401544b13039267c0a355) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/玩家/高遊實驗檔-09.png using Guid(898c8de2aed401544b13039267c0a355) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e404f91e3698a40c01a0d81933ce0507') in 0.189370 seconds
+  Import took 0.194353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/玩家/高遊實驗檔-04.png
+  artifactKey: Guid(b249af1c666b5584991f31822dcdb465) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/玩家/高遊實驗檔-04.png using Guid(b249af1c666b5584991f31822dcdb465) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6394aba316ac71584e0d061abd60f49c') in 0.035392 seconds
+  Import took 0.037826 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/玩家/unnamed 血跡-01.png
+  artifactKey: Guid(902ae61dcca81b74dbaab816ca2d8957) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/玩家/unnamed 血跡-01.png using Guid(902ae61dcca81b74dbaab816ca2d8957) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02636700f81823c9d880305230d4131c') in 0.040386 seconds
+  Import took 0.042848 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/素材/圖層 4.png
+  artifactKey: Guid(86d6dc1016a85ed4caf789c0d5af05df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/圖層 4.png using Guid(86d6dc1016a85ed4caf789c0d5af05df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a24ca12898768798e980b9feb3a0eb7') in 0.006389 seconds
+  Import took 0.009058 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/素材/CHUBBY.TTF
+  artifactKey: Guid(9ca1369fcaeface40bab182b1df18073) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/CHUBBY.TTF using Guid(9ca1369fcaeface40bab182b1df18073) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56d487f1e51ae3a95f2d2123e0c9ee0e') in 0.051060 seconds
+  Import took 0.053797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/素材/Childhood-Bold.otf
+  artifactKey: Guid(518f3a292d3bd2c43a794b6e0a2a7478) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/Childhood-Bold.otf using Guid(518f3a292d3bd2c43a794b6e0a2a7478) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db9b07ce73893c457e1a0ea56408a373') in 0.011815 seconds
+  Import took 0.015174 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/素材/圖層 2.png
+  artifactKey: Guid(b0a7aab6257457546a4373df1258f4bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/圖層 2.png using Guid(b0a7aab6257457546a4373df1258f4bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '258ffdebdaeb21ba21985efe8ae9d794') in 0.008534 seconds
+  Import took 0.012061 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/玩家/高遊實驗檔-03.png
+  artifactKey: Guid(37436e8dc0b33ac45a64b7e890c195d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/玩家/高遊實驗檔-03.png using Guid(37436e8dc0b33ac45a64b7e890c195d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03ccb82b40899ac578b07c59ac977723') in 0.046015 seconds
+  Import took 0.049741 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/玩家/高遊實驗檔-07.png
+  artifactKey: Guid(5182e90474384164db523bdd81fc935b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/玩家/高遊實驗檔-07.png using Guid(5182e90474384164db523bdd81fc935b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd20188508e1cc8500613b6424b94a620') in 0.030972 seconds
+  Import took 0.033463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/玩家/高遊實驗檔-10.png
+  artifactKey: Guid(206b93c9553d98341baeaae88a4ac80f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/玩家/高遊實驗檔-10.png using Guid(206b93c9553d98341baeaae88a4ac80f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa4f52a06191699f789971018f95a7df') in 0.028374 seconds
+  Import took 0.030794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/素材/game_maoudamashii_5_village10.mp3
+  artifactKey: Guid(ad7e735652bd3e2469e30a71df905ed8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/game_maoudamashii_5_village10.mp3 using Guid(ad7e735652bd3e2469e30a71df905ed8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa23e44431cf8b14800a5d06b55296ff') in 0.031092 seconds
+  Import took 0.033668 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/素材/BG1.jpg
+  artifactKey: Guid(5b5836e5f7b8cbf4fa4e08848bc2555a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/BG1.jpg using Guid(5b5836e5f7b8cbf4fa4e08848bc2555a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bed5ff4cd2ec66e4d2355bd132eb4ba') in 0.024684 seconds
+  Import took 0.027209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/素材/s-logo3_o.png
+  artifactKey: Guid(d14898fcdc8fc05449b3b7a24ebb5b96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/s-logo3_o.png using Guid(d14898fcdc8fc05449b3b7a24ebb5b96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c32e3580883f84570db81422998bad13') in 0.029685 seconds
+  Import took 0.033389 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/素材/se_maoudamashii_onepoint26.mp3
+  artifactKey: Guid(46a3013b47faa9e48a2644a7d0da6989) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/se_maoudamashii_onepoint26.mp3 using Guid(46a3013b47faa9e48a2644a7d0da6989) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ba9f35535d7b606b0ad0a6041fe746a') in 0.005379 seconds
+  Import took 0.008176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/玩家/高遊實驗檔-05.png
+  artifactKey: Guid(9a0bae139eefe2243906d8baa7bf4202) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/玩家/高遊實驗檔-05.png using Guid(9a0bae139eefe2243906d8baa7bf4202) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f06b911f2732169332f1ce7ce9559657') in 0.037903 seconds
+  Import took 0.040578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/玩家/高遊實驗檔-06.png
+  artifactKey: Guid(7d9eb5673e0b4b64abd19cd16f1ae93a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/玩家/高遊實驗檔-06.png using Guid(7d9eb5673e0b4b64abd19cd16f1ae93a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cfbbd546114ad09a16688d80b32b15e') in 0.031526 seconds
+  Import took 0.034090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/素材/se_maoudamashii_system23.mp3
+  artifactKey: Guid(7e662aac1f1d4b54d8de7b921dfcca75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/se_maoudamashii_system23.mp3 using Guid(7e662aac1f1d4b54d8de7b921dfcca75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcfb0658e156879668ce95c6ee0d9858') in 0.005719 seconds
+  Import took 0.008571 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/素材/_Path_ (4).png
+  artifactKey: Guid(a136bef283084b343a9e2f180a74bd3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/_Path_ (4).png using Guid(a136bef283084b343a9e2f180a74bd3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcc259bd00b0d7fabc2498d4a06110da') in 0.006682 seconds
+  Import took 0.009597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/素材/_Path_ (5).png
+  artifactKey: Guid(4fe55ede5154cb246a10fe43d1612fc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/_Path_ (5).png using Guid(4fe55ede5154cb246a10fe43d1612fc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db334ee8f3d939712e9095da342fe8a3') in 0.006884 seconds
+  Import took 0.010165 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/素材/後.png
+  artifactKey: Guid(3df067f80780aa34f8f17ea506916e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/素材/後.png using Guid(3df067f80780aa34f8f17ea506916e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffa73b41beb91623a8c097dffecb51f6') in 0.006319 seconds
+  Import took 0.009376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1961.391278 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6320da8cc1e8d6c7572bcdcefc5ad5f') in 0.009031 seconds
+  Import took 0.014072 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
